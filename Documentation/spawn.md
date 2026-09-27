@@ -5,7 +5,7 @@
 Du musst vorher noch ein bisschen die Dateistruktur anpassen:
 
 1. Navigiere in den Weltenordner und lege folgenden Pfad an: `\generated\minecraft\structure`
-2. Lege die Struktur-Dateien, die du [unter Resources]() findest unter dem angelegten Pfad ab.
+2. Lege die Struktur-Dateien, die du [unter Resources](https://github.com/Kieran373/mogroft-season-3/tree/cfb1f9ae02546065f530ca034608d237ffe24b6f/Resources) findest unter dem angelegten Pfad ab.
 
 Nun kannst du in Minecraft reingehen:
 
