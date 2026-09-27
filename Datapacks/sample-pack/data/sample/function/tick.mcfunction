@@ -1,0 +1,1 @@
+effect give MinJungKieran jump_boost 1 10 false
