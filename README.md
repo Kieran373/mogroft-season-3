@@ -3,9 +3,11 @@ Dieses Repository gilt als Sammelstelle der Dokumentation und Datapacks für Mog
 
 ## Datapacks
 Nutze gerne die Vorlage unter `Datapacks\sample-pack`, um nicht mehr die Dateistruktur für ein neues Datapack anlegen zu müssen.
+
 Hier eine kleine Anleitung:
+
 1. Kopiere den Ordner `sample-pack` in deinen `datapacks`-Ordner.
-2. Benenne ihn um z. B. in `neues-pack`.
+2. Benenne ihn um z. B. in `neues-pack` und gebe in der `pack.mcmeta` eine neue Beschreibung für dein Pack.
   - Ändere außerdem `sample-pack\data\sample` in z. B. `neues-pack\data\neu`.
 3. Passe die `load.json` an (achte auf dein neu vergebenes Kürzel `neu`):
   ```mc
