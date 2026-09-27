@@ -2,6 +2,13 @@
 
 ## Spawn mit Structure Blöcken laden
 
+Du musst vorher noch ein bisschen die Dateistruktur anpassen:
+
+1. Navigiere in den Weltenordner und lege folgenden Pfad an: `\generated\minecraft\structure`
+2. Lege die Struktur-Dateien, die du [unter Resources]() findest unter dem angelegten Pfad ab.
+
+Nun kannst du in Minecraft reingehen:
+
 1. Ausführen: `/setblock -47 313 108 minecraft:structure_block`
 2. Ausführen: `/tp -47 314 108`
 2. Stelle den Structure Block in der UI mit dem Button **unten links über Done** auf `Load` um.
