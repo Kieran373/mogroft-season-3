@@ -1,5 +1,18 @@
 # Spawn
 
+## Spawn mit Structure Blöcken laden
+
+1. Ausführen: `/setblock -47 313 108 minecraft:structure_block`
+2. Ausführen: `/tp -47 314 108`
+2. Stelle den Structure Block in der UI mit dem Button **unten links über Done** auf `Load` um.
+3. Gebe als Structure Name `spawn1` ein.
+4. Gebe für die Relative Position folgendes ein: `-48 -27 -48`
+5. Include Entities auf: `On`
+6. Drücke diesmal **unten rechts** auf `LOAD`, um ein Preview zu bekommen, wo die Struktur platziert wird.
+7. Drücke erneut unten rechts auf `LOAD`, um die Struktur zu platzieren.
+8. Fliege in die gegenüberliegende Ecke. Dort findest du einen zweiten Structure Block.
+9. Er ist voreingestellt, weil er mit der ersten Struktur importiert wurde. Stelle ihn unten links auf `Load` um und lade anschließend den Rest über `LOAD` unten rechts rein.
+
 ## Armor Stands
 
 Armor Stands haben folgende spezielle Eigenschaften:
